@@ -24,30 +24,13 @@ You can create, update, and delete tasks, and mark them as completed via an intu
 
 ---
 
-## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - Node.js & npm
 - MongoDB running locally or via cloud (like MongoDB Atlas)
 - Git
 
-### Backend Setup  
-
-Create .env file and set MONGODB_URI
-```
-cd backend
-npm install
-npm start
-```
-
-### Frontend Setup
-
-```
-cd frontend  
-npm install  
-npm start
-```
 
 ## API Endpoints   
 | Method | Endpoint            | Description       |
